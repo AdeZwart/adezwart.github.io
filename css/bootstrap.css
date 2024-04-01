@@ -526,6 +526,16 @@ p {
   }
 }
 
+@media (min-width: 768px) {
+  .d-md-flex{
+    display: flex;
+  }
+}
+
+.mh-100 {
+  min-height: 100%;
+}
+
 small,
 .small {
   font-size: 85%;
