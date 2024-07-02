@@ -63,6 +63,10 @@ a:hover, a:active, a:focus {
   text-decoration: none;
 }
 
+a[href^="tel:"],a[href^="mailto:"] {
+  color: #fff;
+}
+
 p {
   margin-bottom: 20px;
 }
