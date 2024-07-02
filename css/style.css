@@ -825,6 +825,10 @@ h1, h2, h3, h4, h5, h6, figure {
   font-size: 23px;
   content: "\e9af";
 }
+.fh5co-section i.fa-envelope {
+  font-size: 40px;
+  color: #6e978e;
+}
 
 form label {
   font-weight: normal !important;
