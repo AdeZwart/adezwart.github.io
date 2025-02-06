@@ -119,7 +119,7 @@
             seconds: 0,
             words: {
                 days: { singular: 'dag', plural: 'dagen' },
-                hours: { singular: 'uur', plural: 'uren' },
+                hours: { singular: 'uur', plural: 'uur' },
                 minutes: { singular: 'minuut', plural: 'minuten' },
                 seconds: { singular: 'seconde', plural: 'seconden' }
             },
